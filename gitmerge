@@ -1,9 +1,0 @@
-if you encounter this error:
-
-fatal: refusing to merge unrelated histories
-
-RUN:
-
-git pull --allow-unrelated-histories
-
-to force the merge to happen.
