@@ -1,0 +1,11 @@
+Every recursive has two major cases:
+
+base case - in which the task is simple enough to be solved without further calling of the same function (base acts as a terminating condition)
+recursive case - in which the task in divided into smaller sub-parts and solution is got by combing these smaller sub-parts
+
+This works similar to finding a  factorial of a number
+
+#eg
+5!
+5=5x4x3x2x1
+

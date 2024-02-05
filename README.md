@@ -1,1 +1,1 @@
-This is where i shall be studying python
+This is where I shall be studying python

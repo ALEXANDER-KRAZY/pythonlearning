@@ -1,0 +1,9 @@
+Module is a file containing all functions and variables that you would like to use.
+The program that will need to use these functions will import this particular module.
+
+#Syntax for importing module
+
+import module_name
+
+this comes as the first line of code of your pragram
+Followed by module_name.var toaccess functions and values with the name var in the module
